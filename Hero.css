@@ -1,0 +1,15 @@
+.hero {
+  padding: 20px 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.hero--header{
+    margin-bottom: 16px;
+    font-family:  'Poppins';
+}
+
+.hero--para{
+    margin-top : 0;
+    font-family:  'Poppins';
+}
